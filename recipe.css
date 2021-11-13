@@ -1,0 +1,33 @@
+html{
+  background-color:#A49E8D;
+  color:#504136;
+}
+body{
+  font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
+  text-align:center;
+  margin-top:30px;
+  margin-bottom:40px;
+}
+table{
+  display:inline-block;
+  text-align:center;
+}
+.material{
+  padding:6px 0px;
+}
+.amount{
+  padding:6px 0px;
+}
+li{
+  list-style:none;
+  line-height:22px;
+  font-size:16px;
+}
+h1{
+  font-size:32px;
+  margin-bottom:40px;
+}
+h2{
+  font-size:20px;
+  margin:30px;
+}
