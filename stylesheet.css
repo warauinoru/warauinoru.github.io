@@ -1,0 +1,33 @@
+html{
+  background-color:#A49E8D;
+  color:#504136;
+}
+body{
+  font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
+  font-size:27px;
+  text-align:center;
+  margin-top:60px;
+  margin-bottom:40px;
+}
+li{
+  list-style:none;
+  font-size:30px;
+  margin:30px;
+}
+a:link{
+  color:#504136;
+}
+a:visited{
+  color:#504136;
+}
+a:hover{
+  color:#689689;
+}
+a:active{
+  color:#DAFFCB;
+}
+h1{
+  font-size:40px;
+  margin-top:20px;
+  margin-bottom:55px;
+}
