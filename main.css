@@ -127,7 +127,19 @@ font-size: 18px;
 	text-decoration: none;
 	color: #504136; /* メニューリストの文字色 */
 	display: block;
-	padding: .5em 0;
+	padding: 1em 0;
+}
+.hamburger-demo-menulist li a:link{
+  color:#504136;
+}
+.hamburger-demo-menulist li a:visited{
+  color:#504136;
+}
+.hamburger-demo-menulist li a:hover{
+  color:#689689;
+}
+.hamburger-demo-menulist li a:active{
+  color:#DAFFCB;
 }
 /* メニューエリア･アニメーション */
 	/* 右から */
