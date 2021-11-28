@@ -51,7 +51,8 @@ font-size: 18px;
 }
 /* 全体調整CSS */
 .hamburger-demo-menubox *{
-	font-size: 16px;
+	font-size: 20px;
+	font-weight: 700;
 }
 .hamburger-demo-menubox li{
 	font-size: 14px;
