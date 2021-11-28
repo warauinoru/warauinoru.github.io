@@ -5,12 +5,11 @@ html{
 body{
   font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
   text-align:center;
-  top:50%;
 }
 h1{
   font-size:40px;
-  margin-top:60px;
-  margin-bottom:15px;
+  margin-top:100px;
+  margin-bottom:30px;
 }
 li{
   list-style:none;
