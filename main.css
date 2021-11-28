@@ -109,7 +109,7 @@ font-size: 18px;
 	position: fixed;
 	height: 100%;
 	background: #A49E8D; /* メニューエリアの背景色 */
-	padding: 5em 3% 2em;
+	padding: 3em 3% 2em;
 	z-index: 9998;
 	transition: .3s;
 	overflow-y: scroll; /* メニュー内容が多い場合に縦スクロールする */
