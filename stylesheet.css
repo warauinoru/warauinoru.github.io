@@ -6,8 +6,8 @@ body{
   font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
   font-size:27px;
   text-align:center;
-  margin-top:60px;
-  margin-bottom:40px;
+  margin-top:100px;
+  margin-bottom:100px;
 }
 li{
   list-style:none;
@@ -25,9 +25,4 @@ a:hover{
 }
 a:active{
   color:#DAFFCB;
-}
-h1{
-  font-size:40px;
-  margin-top:300px;
-  margin-bottom:60px;
 }
