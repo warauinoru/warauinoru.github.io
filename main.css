@@ -127,8 +127,8 @@ font-size: 18px;
 	text-decoration: none;
 	color: #504136; /* メニューリストの文字色 */
 	display: block;
-	padding:  .75em 0;
-	font-size: 24px;
+	padding:  .8em 0;
+	font-size: 22px;
 }
 .hamburger-demo-menulist li a:link{
   color:#504136;
