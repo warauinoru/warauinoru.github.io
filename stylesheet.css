@@ -4,15 +4,11 @@ html{
 }
 body{
   font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
-  font-size:27px;
   text-align:center;
-  position:absolute;
 }
-li{
-  top:50%;
-  list-style:none;
-  font-size:27px;
-  margin:35px;
+h1{
+  font-size:40px;
+  margin-top:60px;
 }
 a:link{
   color:#504136;
