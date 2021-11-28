@@ -11,7 +11,7 @@ body{
 }
 li{
   list-style:none;
-  font-size:30px;
+  font-size:27px;
   margin:30px;
 }
 a:link{
@@ -28,6 +28,6 @@ a:active{
 }
 h1{
   font-size:40px;
-  margin-top:20px;
-  margin-bottom:55px;
+  margin-top:30px;
+  margin-bottom:60px;
 }
