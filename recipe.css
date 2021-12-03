@@ -5,7 +5,7 @@ html{
 body{
   font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',sans-serif;
   text-align:center;
-  margin-top:80px;
+  margin-top:75px;
   margin-bottom:40px;
 }
 li{
@@ -16,7 +16,7 @@ li{
 }
 ol{
   text-align:left;
-  margin:40px 20px;
+  margin:35px 30px;
 }
 h1{
   font-size:28px;
