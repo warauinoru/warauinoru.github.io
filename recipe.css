@@ -31,6 +31,19 @@ h2{
   font-size:20px;
   margin:30px;
 }
+a:link{
+  color:#504136;
+}
+a:visited{
+  color:#504136;
+}
+a:hover{
+  color:#689689;
+}
+a:active{
+  color:#DAFFCB;
+}
+
 
 /* header（デモの参考値） */
 .demobox-header{
