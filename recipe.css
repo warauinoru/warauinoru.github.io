@@ -9,9 +9,9 @@ body{
   margin-bottom:40px;
 }
 img{
-  width:300px;
-  height:300px;
-  margin:20px;
+  width:250px;
+  height:250px;
+  margin:0px 20px 20px 20px;
 }
 li{
   list-style:none;
