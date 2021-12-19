@@ -33,7 +33,8 @@ h2{
 }
 .url{
   font-size:16px;
-  margin:30px 20px 20px 20px;  
+  margin:30px 20px 20px 20px;
+  text-align:left;
 }
 a:link{
   color:#504136;
